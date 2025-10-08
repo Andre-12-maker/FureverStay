@@ -4,6 +4,9 @@ CSIT327 G6 &amp; IT317 G2
 # Official Figma Prototype
 https://www.figma.com/design/QP5O6KNVbhrkBoS7743C0d/FureverStay-prototype?node-id=1109177-524&t=q6KeVqOLbK95krio-1&fbclid=IwY2xjawNRRp1leHRuA2FlbQIxMABicmlkETFWZ2RBc0k0NE1PeW5mb3V2AR7ubOmmQC-g_86W1j6ZGMScppqIFEa9mTykzT-lPjTgEDq0WpIUybEiv4AIqg_aem_8Oqxs1SFumOGT_nqBVvzvw
 
+# Supabase Password
+scPeewft20hLiOa6
+
 # Git Playground (Fork Workflow) — AY 2025
 
 A hands-on lab to practice **basic Git** with a real **GitHub PR workflow**.  
