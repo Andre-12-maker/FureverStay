@@ -7,6 +7,19 @@ https://www.figma.com/design/QP5O6KNVbhrkBoS7743C0d/FureverStay-prototype?node-i
 # Supabase Password
 scPeewft20hLiOa6
 
+# Tech stacks used:
+- Django
+- Python
+- HTML/CSS
+- Javascript
+- Supabase
+
+# Team members:
+Clint Pacaña (clint.pacana@cit.edu) - Developer
+Ritter Padin (ritter.padin@cit.edu) - Developer
+Andre Policios (andre.policios@cit.edu) - Lead Developer
+
+
 # Git Playground (Fork Workflow) — AY 2025
 
 A hands-on lab to practice **basic Git** with a real **GitHub PR workflow**.  
