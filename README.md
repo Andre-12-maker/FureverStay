@@ -15,9 +15,9 @@ scPeewft20hLiOa6
 - Supabase
 
 # Team members:
-Clint Pacaña (clint.pacana@cit.edu) - Developer
-Ritter Padin (ritter.padin@cit.edu) - Developer
-Andre Policios (andre.policios@cit.edu) - Lead Developer
+- Clint Pacaña (clint.pacana@cit.edu) - Developer
+- Ritter Padin (ritter.padin@cit.edu) - Developer
+- Andre Policios (andre.policios@cit.edu) - Lead Developer
 
 
 # Git Playground (Fork Workflow) — AY 2025
