@@ -1,4 +1,4 @@
-# FureverStay
+# FureverStay: AirBNB for pets
 CSIT327 G6 &amp; IT317 G2
 
 # Official Figma Prototype
