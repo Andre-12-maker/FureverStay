@@ -1,21 +1,12 @@
 # FureverStay: AirBNB for pets
 FureverStay: Airbnb for pets is an online platform designed to connect pet owners with trusted pet sitters who can care for their pets while they are away. The platform provides secure bookings, sitter profiles, and reviews, ensuring peace of mind for owners and a reliable income stream for sitters.
 
-# Official Figma Prototype
-https://www.figma.com/design/QP5O6KNVbhrkBoS7743C0d/FureverStay-prototype?node-id=1109177-524&t=q6KeVqOLbK95krio-1&fbclid=IwY2xjawNRRp1leHRuA2FlbQIxMABicmlkETFWZ2RBc0k0NE1PeW5mb3V2AR7ubOmmQC-g_86W1j6ZGMScppqIFEa9mTykzT-lPjTgEDq0WpIUybEiv4AIqg_aem_8Oqxs1SFumOGT_nqBVvzvw
-
 # Tech stacks used:
 - Django
 - Python
 - HTML/CSS
 - Javascript
 - Supabase
-
-# Team members:
-- Clint Pacaña (clint.pacana@cit.edu) - Lead Developer
-- Ritter Padin (ritter.padin@cit.edu) - Developer
-- Andre Policios (andre.policios@cit.edu) - Developer
-
 
 # Git Playground (Fork Workflow) — AY 2025
 
@@ -171,3 +162,15 @@ git fetch origin && git merge origin/main
 - **No issue reference:** Amend/add a new commit including `(#1)` or `(#2)`.
 
 ---
+
+# Team members:
+- Clint Pacaña (clint.pacana@cit.edu) - Lead Developer
+- Ritter Padin (ritter.padin@cit.edu) - Frontend Developer
+- Andre Policios (andre.policios@cit.edu) - Backend Developer
+
+# Deployed Links
+https://www.figma.com/design/QP5O6KNVbhrkBoS7743C0d/FureverStay-prototype?node-id=1109177-524&t=q6KeVqOLbK95krio-1&fbclid=IwY2xjawNRRp1leHRuA2FlbQIxMABicmlkETFWZ2RBc0k0NE1PeW5mb3V2AR7ubOmmQC-g_86W1j6ZGMScppqIFEa9mTykzT-lPjTgEDq0WpIUybEiv4AIqg_aem_8Oqxs1SFumOGT_nqBVvzvw
+
+
+
+
