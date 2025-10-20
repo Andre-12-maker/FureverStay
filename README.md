@@ -169,8 +169,8 @@ git fetch origin && git merge origin/main
 - Andre Policios (andre.policios@cit.edu) - Backend Developer
 
 # Deployed Links
-https://www.figma.com/design/QP5O6KNVbhrkBoS7743C0d/FureverStay-prototype?node-id=1109177-524&t=q6KeVqOLbK95krio-1&fbclid=IwY2xjawNRRp1leHRuA2FlbQIxMABicmlkETFWZ2RBc0k0NE1PeW5mb3V2AR7ubOmmQC-g_86W1j6ZGMScppqIFEa9mTykzT-lPjTgEDq0WpIUybEiv4AIqg_aem_8Oqxs1SFumOGT_nqBVvzvw
-
+TBA
+TBA
 
 
 
